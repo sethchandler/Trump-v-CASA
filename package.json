@@ -1,0 +1,23 @@
+{
+  "name": "trump-v-casa-educational-site",
+  "version": "1.0.0",
+  "description": "Educational website for Trump v. CASA, Inc. Supreme Court decision",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "serve": "python -m http.server 8000"
+  },
+  "keywords": [
+    "supreme-court",
+    "injunctive-relief",
+    "legal-education",
+    "constitutional-law",
+    "federal-litigation"
+  ],
+  "author": "Seth J. Chandler",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SethChandler/trump-v-casa-site.git"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "supreme_court": {
+    "slip_opinion": {
+      "title": "Trump v. CASA, Inc. - Slip Opinion",
+      "path": "opinions/24a884_slip_opinion.pdf",
+      "url": "https://www.supremecourt.gov/opinions/24pdf/24a884_8n59.pdf",
+      "description": "Complete Supreme Court opinion with majority, concurrences, and dissents"
+    },
+    "oral_argument_transcript": {
+      "title": "Oral Argument Transcript",
+      "path": "opinions/24a884_oral_argument_transcript.pdf",
+      "url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2024/24a884_2c83.pdf",
+      "description": "Official transcript of May 15, 2025 oral arguments"
+    },
+    "oral_argument_audio": {
+      "title": "Oral Argument Audio",
+      "url": "https://www.supremecourt.gov/media/audio/mp3files/24A884.mp3",
+      "description": "MP3 recording of oral arguments"
+    },
+    "docket": {
+      "title": "Supreme Court Docket Sheet",
+      "url": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/24a884.html",
+      "description": "Complete docket with filings and orders"
+    }
+  },
+  "executive_branch": {
+    "executive_order": {
+      "title": "Executive Order 14160",
+      "path": "executive/EO_14160.pdf",
+      "url": "https://public-inspection.federalregister.gov/2025-02007.pdf",
+      "description": "Protecting the Meaning and Value of American Citizenship"
+    },
+    "uscis_memo": {
+      "title": "USCIS Implementation Plan",
+      "path": "executive/USCIS_Implementation_Plan.pdf",
+      "url": "https://www.uscis.gov/sites/default/files/document/policy-alerts/IP-2025-0001-USCIS_Implementation_Plan_of_Executive_Order_14160.pdf",
+      "description": "July 25, 2025 implementation guidance"
+    }
+  },
+  "lower_courts": {
+    "casa_docket": {
+      "title": "CASA Inc. v. Trump (D. Md.)",
+      "url": "https://www.courtlistener.com/docket/69563661/casa-inc-v-trump/",
+      "description": "Master docket for original district court case"
+    },
+    "fourth_circuit": {
+      "title": "CASA Inc. v. Trump (4th Cir.)",
+      "url": "https://www.courtlistener.com/docket/69647215/casa-inc-v-donald-trump/",
+      "description": "Fourth Circuit appeal docket"
+    },
+    "washington_v_trump": {
+      "title": "Washington v. Trump (D. Wash.)",
+      "url": "https://www.courtlistener.com/opinion/10639806/state-of-washington-v-trump/",
+      "description": "District of Washington preliminary injunction opinion"
+    }
+  },
+  "educational": {
+    "cle_presentation": {
+      "title": "CLE Presentation on Trump v. CASA",
+      "path": "assets/CLE_Trump_v_CASA_Presentation.pdf",
+      "description": "24-slide analysis by Seth J. Chandler"
+    },
+    "notebooklm": {
+      "title": "NotebookLM Analysis",
+      "url": "https://notebooklm.google.com/notebook/e0097aee-341d-40de-99bf-85b5c9b098c5",
+      "description": "Interactive AI-powered case analysis"
+    },
+    "podcast": {
+      "title": "Synthetic Podcast",
+      "url": "https://notebooklm.google.com/notebook/e0097aee-341d-40de-99bf-85b5c9b098c5/audio",
+      "description": "17-minute AI-generated discussion of the case"
+    }
+  },
+  "scholarship": {
+    "sohoni_universal_injunction": {
+      "title": "The Lost History of the 'Universal' Injunction",
+      "author": "Mila Sohoni",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3457701",
+      "description": "Foundational scholarship on universal injunctions"
+    },
+    "bray_multiple_chancellors": {
+      "title": "Multiple Chancellors: Reforming the National Injunction",
+      "author": "Evan Bray",
+      "url": "https://papers.ssrn.com/sol3/Delivery.cfm/4851750.pdf?abstractid=4851750",
+      "description": "2017 analysis of nationwide injunction reform"
+    }
+  },
+  "statutes": {
+    "judiciary_act_1789": {
+      "title": "Judiciary Act of 1789, Section 16",
+      "description": "Source of federal equity power"
+    },
+    "apa_706": {
+      "title": "5 U.S.C. § 706",
+      "url": "https://www.law.cornell.edu/uscode/text/5/706",
+      "description": "Administrative Procedure Act - Scope of review"
+    },
+    "frcp_23": {
+      "title": "Federal Rule of Civil Procedure 23",
+      "url": "https://www.law.cornell.edu/rules/frcp/rule_23",
+      "description": "Class Actions"
+    }
+  }
+}
