@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
 const style = document.createElement('style');
 style.textContent = `
     .nav-link.active {
-        color: #1e40af;
+        color: var(--color-uh-red);
         font-weight: 600;
     }
 `;
