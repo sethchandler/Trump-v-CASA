@@ -448,3 +448,126 @@ a:focus {
     outline: 2px solid var(--color-uh-teal);
     outline-offset: 2px;
 }
+
+/* Analysis Page Styles */
+.analysis-header {
+    background: linear-gradient(135deg, var(--color-uh-red), var(--color-uh-brick));
+    color: var(--color-uh-white);
+    padding: 2rem 0;
+}
+
+.breadcrumb {
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+    opacity: 0.9;
+}
+
+.breadcrumb a {
+    color: var(--color-uh-white);
+    text-decoration: none;
+}
+
+.breadcrumb a:hover {
+    text-decoration: underline;
+}
+
+.analysis-subtitle {
+    font-size: 1.1rem;
+    font-weight: 400;
+    opacity: 0.9;
+    margin-top: 0.5rem;
+}
+
+.analysis-content {
+    padding: 3rem 0;
+}
+
+.executive-summary {
+    background: #f8f9fa;
+    border-left: 4px solid var(--color-uh-teal);
+    padding: 2rem;
+    border-radius: 8px;
+    margin-bottom: 3rem;
+}
+
+.executive-summary h2 {
+    color: var(--color-uh-red);
+    margin-bottom: 1rem;
+}
+
+.analysis-section {
+    margin-bottom: 3rem;
+}
+
+.analysis-section h2 {
+    color: var(--color-uh-red);
+    border-bottom: 2px solid var(--color-uh-gold);
+    padding-bottom: 0.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.analysis-section h3 {
+    color: var(--color-uh-slate);
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.analysis-section ul, .analysis-section ol {
+    margin-left: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.analysis-section li {
+    margin-bottom: 0.5rem;
+    line-height: 1.6;
+}
+
+.analysis-section li strong {
+    color: var(--color-uh-red);
+}
+
+.analysis-footer {
+    border-top: 1px solid var(--color-uh-gray);
+    padding-top: 2rem;
+    margin-top: 3rem;
+    text-align: center;
+    background: #f8f9fa;
+}
+
+.analysis-attribution {
+    margin-top: 1rem;
+    font-size: 0.9rem;
+    color: var(--color-uh-slate);
+}
+
+.analysis-attribution a {
+    color: var(--color-uh-red);
+    text-decoration: none;
+}
+
+.analysis-attribution a:hover {
+    text-decoration: underline;
+    color: var(--color-uh-brick);
+}
+
+/* Timeline Link Styles */
+.timeline-content h4 a {
+    color: var(--color-uh-red);
+    text-decoration: none;
+}
+
+.timeline-content h4 a:hover {
+    text-decoration: underline;
+    color: var(--color-uh-brick);
+}
+
+.timeline-content p a {
+    color: var(--color-uh-teal);
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.timeline-content p a:hover {
+    text-decoration: underline;
+    color: var(--color-uh-green);
+}
