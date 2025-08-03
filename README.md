@@ -23,24 +23,24 @@ A comprehensive educational resource exploring the landmark Supreme Court decisi
 
 ```
 trump-v-casa-site/
-├── opinions/           # Supreme Court documents
-├── executive/          # Executive Order and agency guidance  
-├── lower-courts/       # District and circuit court decisions
-├── briefs/            # Amicus and party briefs
-├── statutes/          # Relevant statutory materials
-├── scholarship/       # Academic articles and commentary
-├── assets/            # Educational materials and media
-├── css/               # Stylesheets
-├── js/                # JavaScript functionality
-└── src/               # Source files and components
+├── cases/             # All judicial opinions (Supreme Court, precedent, lower courts)
+├── executive/         # Executive Order and agency guidance  
+├── briefs/           # Amicus and party briefs (to be added)
+├── statutes/         # Relevant statutory materials and rules
+├── scholarship/      # Academic articles and commentary
+├── assets/           # Educational materials and media
+├── css/              # Stylesheets
+├── js/               # JavaScript functionality
+└── src/              # Source files and components
 ```
 
 ## Key Documents
 
-### Supreme Court Materials
-- Slip opinion with all opinions (PDF)
-- Oral argument transcript and audio
-- Complete docket sheet
+### Judicial Opinions (cases/)
+- Supreme Court slip opinion with all opinions (PDF)
+- Oral argument transcript and audio  
+- Precedent cases: Wong Kim Ark, Grupo Mexicano, Bennett v. Spear (HTML)
+- Lower court decisions and dockets (links)
 
 ### Executive Branch
 - Executive Order 14160 (Birthright Citizenship)

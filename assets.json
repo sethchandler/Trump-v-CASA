@@ -2,13 +2,13 @@
   "supreme_court": {
     "slip_opinion": {
       "title": "Trump v. CASA, Inc. - Slip Opinion",
-      "path": "opinions/24a884_slip_opinion.pdf",
+      "path": "supreme-court/24a884_slip_opinion.pdf",
       "url": "https://www.supremecourt.gov/opinions/24pdf/24a884_8n59.pdf",
       "description": "Complete Supreme Court opinion with majority, concurrences, and dissents"
     },
     "oral_argument_transcript": {
       "title": "Oral Argument Transcript",
-      "path": "opinions/24a884_oral_argument_transcript.pdf",
+      "path": "supreme-court/24a884_oral_argument_transcript.pdf",
       "url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2024/24a884_2c83.pdf",
       "description": "Official transcript of May 15, 2025 oral arguments"
     },
@@ -37,6 +37,26 @@
       "description": "July 25, 2025 implementation guidance"
     }
   },
+  "precedent_cases": {
+    "wong_kim_ark": {
+      "title": "U.S. v. Wong Kim Ark (1898)",
+      "path": "precedent-cases/US_v_Wong_Kim_Ark_1898.html",
+      "url": "https://www.law.cornell.edu/supremecourt/text/169/649",
+      "description": "Foundational birthright citizenship case under 14th Amendment"
+    },
+    "grupo_mexicano": {
+      "title": "Grupo Mexicano v. Alliance Bond Fund (1999)",
+      "path": "precedent-cases/Grupo_Mexicano_v_Alliance_Bond_Fund_1999.html",
+      "url": "https://www.law.cornell.edu/supct/html/98-231.ZS.html",
+      "description": "Limited federal courts' equitable powers, cited heavily in CASA"
+    },
+    "bennett_v_spear": {
+      "title": "Bennett v. Spear (1997)",
+      "path": "precedent-cases/Bennett_v_Spear_1997.html",
+      "url": "https://www.law.cornell.edu/supct/html/95-813.ZO.html",
+      "description": "Final agency action test for APA challenges"
+    }
+  },
   "lower_courts": {
     "casa_docket": {
       "title": "CASA Inc. v. Trump (D. Md.)",
@@ -57,7 +77,7 @@
   "educational": {
     "cle_presentation": {
       "title": "CLE Presentation on Trump v. CASA",
-      "path": "assets/CLE_Trump_v_CASA_Presentation.pdf",
+      "path": "educational/CLE_Trump_v_CASA_Presentation.pdf",
       "description": "24-slide analysis by Seth J. Chandler"
     },
     "notebooklm": {
