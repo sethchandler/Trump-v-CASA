@@ -223,6 +223,7 @@ NOTEBOOKLM UPLOAD INSTRUCTIONS
    - Oral argument transcript  
    - Executive Order 14160
    - USCIS Implementation Plan
+   - Lower court opinions (Washington v. Trump 9th Cir., New Jersey v. Trump D. Mass., CASA v. Trump D. Md., Barbara v. Trump D.N.H.)
    - Scholarship articles
 
 4. Then add this text content as sources

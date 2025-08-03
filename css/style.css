@@ -362,6 +362,14 @@ h3 {
     color: var(--color-uh-red);
 }
 
+.case-description {
+    font-size: 0.85rem;
+    color: #6b7280;
+    margin-top: 0.25rem;
+    font-style: italic;
+    line-height: 1.4;
+}
+
 /* Practice Section */
 .practice-grid {
     display: grid;

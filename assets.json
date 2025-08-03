@@ -68,10 +68,25 @@
       "url": "https://www.courtlistener.com/docket/69647215/casa-inc-v-donald-trump/",
       "description": "Fourth Circuit appeal docket"
     },
-    "washington_v_trump": {
-      "title": "Washington v. Trump (D. Wash.)",
-      "url": "https://www.courtlistener.com/opinion/10639806/state-of-washington-v-trump/",
-      "description": "District of Washington preliminary injunction opinion"
+    "washington_ninth_circuit": {
+      "title": "Washington v. Trump (9th Cir.) - July 23, 2025",
+      "path": "lower-courts/25-807.pdf",
+      "description": "Ninth Circuit affirms universal injunction for state plaintiffs citing 'impossible to otherwise avoid administrative and financial harm'"
+    },
+    "casa_maryland_district": {
+      "title": "CASA Inc. v. Trump (D. Md.) - July 16, 2025",
+      "path": "lower-courts/gov.uscourts.mdd.574698.119.0.pdf",
+      "description": "Maryland District Court indicative ruling to grant class-wide preliminary injunction upon remand, adopting procedural path suggested by SCOTUS"
+    },
+    "new_jersey_massachusetts": {
+      "title": "New Jersey v. Trump (D. Mass.) - July 25, 2025",
+      "path": "lower-courts/gov.uscourts.mad.279895.203.0_1.pdf",
+      "description": "Massachusetts District Court upholds universal injunction as necessary for complete relief, citing unworkable 'patchwork' due to cross-border flows"
+    },
+    "barbara_new_hampshire": {
+      "title": "Barbara v. Trump (D.N.H.) - July 10, 2025",
+      "path": "lower-courts/gov.uscourts.nhd.65710.65.0_3.pdf",
+      "description": "New Hampshire District Court certifies provisional nationwide class and grants class-wide preliminary injunction, following 'blueprint of the Supreme Court'"
     }
   },
   "educational": {
