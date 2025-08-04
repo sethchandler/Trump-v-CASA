@@ -62,6 +62,8 @@ class NotebookLMPreparer {
                                 <li>USCIS Implementation Plan (PDF)</li>
                                 <li>All 5 opinion analyses (text files)</li>
                                 <li>Case timeline & materials (text)</li>
+                                <li>Practice Pointers essays (3 comprehensive analyses)</li>
+                                <li>Fictitious Bray Sohoni Dialog (PDF)</li>
                                 <li>Scholarship articles (PDFs)</li>
                                 <li>Upload instructions</li>
                             </ul>
@@ -191,6 +193,7 @@ class NotebookLMPreparer {
             // Main case information
             overview: this.extractSectionText('overview'),
             timeline: this.extractSectionText('timeline'),
+            practice_pointers: this.extractSectionText('practice'),
             
             // Opinion analyses
             analyses: {
@@ -207,6 +210,10 @@ class NotebookLMPreparer {
                 oral_argument_transcript: window.location.origin + '/supreme-court/24a884_oral_argument_transcript.pdf',
                 executive_order: window.location.origin + '/executive/EO_14160.pdf',
                 uscis_plan: window.location.origin + '/executive/IP-2025-0001-USCIS_Implementation_Plan_of_Executive_Order_14160 – Protecting_the_Meaning_and_Value_of_American_Citizenship.pdf',
+                fictitious_dialog: window.location.origin + '/analyses/Fictitious Bray Sohoni Dialog.pdf',
+                class_actions_essay: window.location.origin + '/practice-pointers/class-actions-essay.html',
+                complete_relief_essay: window.location.origin + '/practice-pointers/complete-relief-essay.html',
+                apa_vacatur_essay: window.location.origin + '/practice-pointers/apa-vacatur-essay.html',
                 scholarship_bray: window.location.origin + '/scholarship/bray_multiple_chancellors.pdf',
                 scholarship_coenen_davis: window.location.origin + '/scholarship/bray_coenen_percolation.pdf'
             },

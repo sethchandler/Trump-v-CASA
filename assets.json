@@ -95,6 +95,26 @@
       "path": "educational/CLE_Trump_v_CASA_Presentation.pdf",
       "description": "24-slide analysis by Seth J. Chandler"
     },
+    "fictitious_dialog": {
+      "title": "Fictitious Bray Sohoni Dialog",
+      "path": "analyses/Fictitious Bray Sohoni Dialog.pdf",
+      "description": "Educational dialog exploring scholarly perspectives on universal injunctions"
+    },
+    "class_actions_essay": {
+      "title": "Class Actions as the Primary Post-CASA Strategy",
+      "path": "practice-pointers/class-actions-essay.html",
+      "description": "800-word comprehensive analysis of using class actions for broad relief after universal injunctions were banned"
+    },
+    "complete_relief_essay": {
+      "title": "Achieving Complete Relief for Indivisible Injuries Post-CASA",
+      "path": "practice-pointers/complete-relief-essay.html",
+      "description": "800-word analysis of the complete relief doctrine for truly indivisible injuries requiring nationwide remedies"
+    },
+    "apa_vacatur_essay": {
+      "title": "APA Vacatur as an Alternative to Universal Injunctions",
+      "path": "practice-pointers/apa-vacatur-essay.html",
+      "description": "800-word analysis of using Administrative Procedure Act vacatur to achieve nationwide relief through administrative law"
+    },
     "notebooklm": {
       "title": "NotebookLM Analysis",
       "url": "https://notebooklm.google.com/notebook/e0097aee-341d-40de-99bf-85b5c9b098c5",
