@@ -60,7 +60,7 @@ class NotebookLMPreparer {
                                 <li>Oral argument transcript (PDF)</li>
                                 <li>Executive Order 14160 (PDF)</li>
                                 <li>USCIS Implementation Plan (PDF)</li>
-                                <li>All 6 opinion analyses + deep dives (12 text files)</li>
+                                <li>All 6 opinion analyses + deep dives + human impact (13 text files)</li>
                                 <li>Case timeline & materials (text)</li>
                                 <li>Practice Pointers essays (3 comprehensive analyses)</li>
                                 <li>Fictitious Bray Sohoni Dialog (PDF)</li>
@@ -148,7 +148,7 @@ class NotebookLMPreparer {
                         <ul style="margin: 0; padding-left: 20px; font-size: 14px;">
                             <li><strong>All website text content</strong> - Structured for easy upload</li>
                             <li><strong>PDF file list</strong> - Direct links to download each document</li>
-                            <li><strong>Opinion analyses</strong> - All 6 justice analyses + deep dives (12 total)</li>
+                            <li><strong>Opinion analyses</strong> - All 6 justice analyses + deep dives + human impact (13 total)</li>
                             <li><strong>Timeline & materials</strong> - Complete case information</li>
                             <li><strong>Upload guide</strong> - Step-by-step NotebookLM instructions</li>
                         </ul>
@@ -209,7 +209,9 @@ class NotebookLMPreparer {
                 alito_deep_dive: await this.fetchAnalysisText('analyses/alito-deep-dive.html'),
                 thomas_deep_dive: await this.fetchAnalysisText('analyses/thomas-deep-dive.html'),
                 sotomayor_deep_dive: await this.fetchAnalysisText('analyses/sotomayor-deep-dive.html'),
-                jackson_deep_dive: await this.fetchAnalysisText('analyses/jackson-deep-dive.html')
+                jackson_deep_dive: await this.fetchAnalysisText('analyses/jackson-deep-dive.html'),
+                // Human impact analysis
+                human_impact: await this.fetchAnalysisText('human-impact.html')
             },
             
             // Document links for manual download
