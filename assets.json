@@ -95,6 +95,11 @@
       "path": "educational/CLE_Trump_v_CASA_Presentation.pdf",
       "description": "24-slide analysis by Seth J. Chandler"
     },
+    "human_impact_analysis": {
+      "title": "Human Impact Analysis - Executive Order 14160",
+      "path": "human-impact.html",
+      "description": "Comprehensive analysis of the real-world consequences and implementation challenges of Executive Order 14160"
+    },
     "fictitious_dialog": {
       "title": "Fictitious Bray Sohoni Dialog",
       "path": "analyses/Fictitious Bray Sohoni Dialog.pdf",
