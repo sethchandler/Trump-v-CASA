@@ -115,6 +115,46 @@
       "path": "practice-pointers/apa-vacatur-essay.html",
       "description": "800-word analysis of using Administrative Procedure Act vacatur to achieve nationwide relief through administrative law"
     },
+    "barrett_deep_dive": {
+      "title": "Justice Barrett Majority Opinion Deep Dive",
+      "path": "analyses/barrett-deep-dive.html",
+      "description": "In-depth analysis of Justice Barrett's majority opinion applying strict historical test to universal injunctions"
+    },
+    "kavanaugh_deep_dive": {
+      "title": "Justice Kavanaugh Concurrence Deep Dive",
+      "path": "analyses/kavanaugh-deep-dive.html",
+      "description": "Detailed examination of Justice Kavanaugh's concurrence on SCOTUS as ultimate decider and class action alternatives"
+    },
+    "alito_concurrence_analysis": {
+      "title": "Justice Alito Concurrence Analysis",
+      "path": "analyses/alito-concurrence-analysis.html",
+      "description": "Analysis of Justice Alito's concurrence warning against procedural loopholes, joined by Justice Thomas"
+    },
+    "thomas_concurrence_analysis": {
+      "title": "Justice Thomas Concurrence Analysis",
+      "path": "analyses/thomas-concurrence-analysis.html",
+      "description": "Analysis of Justice Thomas's separate concurrence on the complete relief doctrine and substantive evasion"
+    },
+    "alito_deep_dive": {
+      "title": "Justice Alito Concurrence Deep Dive",
+      "path": "analyses/alito-deep-dive.html",
+      "description": "In-depth analysis of Justice Alito's warning against loopholes in state standing and class certification"
+    },
+    "thomas_deep_dive": {
+      "title": "Justice Thomas Concurrence Deep Dive",
+      "path": "analyses/thomas-deep-dive.html",
+      "description": "Deep analysis of Justice Thomas's strict interpretation of complete relief and remedial limits"
+    },
+    "sotomayor_deep_dive": {
+      "title": "Justice Sotomayor Dissent Deep Dive",
+      "path": "analyses/sotomayor-deep-dive.html",
+      "description": "Comprehensive analysis of Justice Sotomayor's dissent arguing for flexible equity and universal relief precedents"
+    },
+    "jackson_deep_dive": {
+      "title": "Justice Jackson Dissent Deep Dive",
+      "path": "analyses/jackson-deep-dive.html",
+      "description": "Deep analysis of Justice Jackson's dissent on zones of lawlessness and government binding only to litigants"
+    },
     "notebooklm": {
       "title": "NotebookLM Analysis",
       "url": "https://notebooklm.google.com/notebook/e0097aee-341d-40de-99bf-85b5c9b098c5",

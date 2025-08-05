@@ -60,7 +60,7 @@ class NotebookLMPreparer {
                                 <li>Oral argument transcript (PDF)</li>
                                 <li>Executive Order 14160 (PDF)</li>
                                 <li>USCIS Implementation Plan (PDF)</li>
-                                <li>All 5 opinion analyses (text files)</li>
+                                <li>All 6 opinion analyses + deep dives (12 text files)</li>
                                 <li>Case timeline & materials (text)</li>
                                 <li>Practice Pointers essays (3 comprehensive analyses)</li>
                                 <li>Fictitious Bray Sohoni Dialog (PDF)</li>
@@ -148,7 +148,7 @@ class NotebookLMPreparer {
                         <ul style="margin: 0; padding-left: 20px; font-size: 14px;">
                             <li><strong>All website text content</strong> - Structured for easy upload</li>
                             <li><strong>PDF file list</strong> - Direct links to download each document</li>
-                            <li><strong>Opinion analyses</strong> - All 5 justice analyses as text</li>
+                            <li><strong>Opinion analyses</strong> - All 6 justice analyses + deep dives (12 total)</li>
                             <li><strong>Timeline & materials</strong> - Complete case information</li>
                             <li><strong>Upload guide</strong> - Step-by-step NotebookLM instructions</li>
                         </ul>
@@ -199,9 +199,17 @@ class NotebookLMPreparer {
             analyses: {
                 barrett_majority: await this.fetchAnalysisText('analyses/barrett-majority-analysis.html'),
                 kavanaugh_concurrence: await this.fetchAnalysisText('analyses/kavanaugh-concurrence-analysis.html'),
-                alito_thomas_concurrence: await this.fetchAnalysisText('analyses/alito-thomas-concurrence-analysis.html'),
+                alito_concurrence: await this.fetchAnalysisText('analyses/alito-concurrence-analysis.html'),
+                thomas_concurrence: await this.fetchAnalysisText('analyses/thomas-concurrence-analysis.html'),
                 sotomayor_dissent: await this.fetchAnalysisText('analyses/sotomayor-dissent-analysis.html'),
-                jackson_dissent: await this.fetchAnalysisText('analyses/jackson-dissent-analysis.html')
+                jackson_dissent: await this.fetchAnalysisText('analyses/jackson-dissent-analysis.html'),
+                // Deep dive analyses
+                barrett_deep_dive: await this.fetchAnalysisText('analyses/barrett-deep-dive.html'),
+                kavanaugh_deep_dive: await this.fetchAnalysisText('analyses/kavanaugh-deep-dive.html'),
+                alito_deep_dive: await this.fetchAnalysisText('analyses/alito-deep-dive.html'),
+                thomas_deep_dive: await this.fetchAnalysisText('analyses/thomas-deep-dive.html'),
+                sotomayor_deep_dive: await this.fetchAnalysisText('analyses/sotomayor-deep-dive.html'),
+                jackson_deep_dive: await this.fetchAnalysisText('analyses/jackson-deep-dive.html')
             },
             
             // Document links for manual download
