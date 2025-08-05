@@ -1,0 +1,245 @@
+{
+  "exportDate": "2025-08-04T13:49:57.094Z",
+  "printFriendly": false,
+  "totalCitations": 23,
+  "stats": {
+    "total": 23,
+    "verified": 10,
+    "mismatches": 5,
+    "possiblyHallucinated": 2,
+    "notFound": 3,
+    "multiple": 3
+  },
+  "citations": [
+    {
+      "citation": "347 U.S. 483",
+      "status": 200,
+      "statusSymbol": null,
+      "caseName": null,
+      "court": null,
+      "dateField": null,
+      "context": null,
+      "extractedCaseName": null
+    },
+    {
+      "citation": "88 F.4th 112",
+      "status": 404,
+      "statusSymbol": null,
+      "caseName": null,
+      "court": null,
+      "dateField": null,
+      "context": null,
+      "extractedCaseName": null
+    },
+    {
+      "citation": "118 U.S. 394",
+      "status": "possibly_hallucinated",
+      "statusSymbol": null,
+      "caseName": null,
+      "court": null,
+      "dateField": null,
+      "context": null,
+      "extractedCaseName": null
+    },
+    {
+      "citation": "489 F. Supp. 2d 301",
+      "status": "mismatch",
+      "statusSymbol": null,
+      "caseName": null,
+      "court": null,
+      "dateField": null,
+      "context": null,
+      "extractedCaseName": null
+    },
+    {
+      "citation": "621 F.3d 888",
+      "status": "mismatch",
+      "statusSymbol": null,
+      "caseName": null,
+      "court": null,
+      "dateField": null,
+      "context": null,
+      "extractedCaseName": null
+    },
+    {
+      "citation": "533 U.S. 27",
+      "status": 200,
+      "statusSymbol": null,
+      "caseName": null,
+      "court": null,
+      "dateField": null,
+      "context": null,
+      "extractedCaseName": null
+    },
+    {
+      "citation": "83 U.S. 36",
+      "status": "possibly_hallucinated",
+      "statusSymbol": null,
+      "caseName": null,
+      "court": null,
+      "dateField": null,
+      "context": null,
+      "extractedCaseName": null
+    },
+    {
+      "citation": "535 U.S. 234",
+      "status": 200,
+      "statusSymbol": null,
+      "caseName": null,
+      "court": null,
+      "dateField": null,
+      "context": null,
+      "extractedCaseName": null
+    },
+    {
+      "citation": "497 U.S. 261",
+      "status": 200,
+      "statusSymbol": null,
+      "caseName": null,
+      "court": null,
+      "dateField": null,
+      "context": null,
+      "extractedCaseName": null
+    },
+    {
+      "citation": "163 U.S. 537",
+      "status": 200,
+      "statusSymbol": null,
+      "caseName": null,
+      "court": null,
+      "dateField": null,
+      "context": null,
+      "extractedCaseName": null
+    },
+    {
+      "citation": "408 U.S. 238",
+      "status": 200,
+      "statusSymbol": null,
+      "caseName": null,
+      "court": null,
+      "dateField": null,
+      "context": null,
+      "extractedCaseName": null
+    },
+    {
+      "citation": "71 U.S. 2",
+      "status": 300,
+      "statusSymbol": null,
+      "caseName": null,
+      "court": null,
+      "dateField": null,
+      "context": null,
+      "extractedCaseName": null
+    },
+    {
+      "citation": "553 U.S. 723",
+      "status": 300,
+      "statusSymbol": null,
+      "caseName": null,
+      "court": null,
+      "dateField": null,
+      "context": null,
+      "extractedCaseName": null
+    },
+    {
+      "citation": "543 U.S. 551",
+      "status": 200,
+      "statusSymbol": null,
+      "caseName": null,
+      "court": null,
+      "dateField": null,
+      "context": null,
+      "extractedCaseName": null
+    },
+    {
+      "citation": "381 U.S. 479",
+      "status": 200,
+      "statusSymbol": null,
+      "caseName": null,
+      "court": null,
+      "dateField": null,
+      "context": null,
+      "extractedCaseName": null
+    },
+    {
+      "citation": "60 U.S. 393",
+      "status": 300,
+      "statusSymbol": null,
+      "caseName": null,
+      "court": null,
+      "dateField": null,
+      "context": null,
+      "extractedCaseName": null
+    },
+    {
+      "citation": "501 U.S. 808",
+      "status": 200,
+      "statusSymbol": null,
+      "caseName": null,
+      "court": null,
+      "dateField": null,
+      "context": null,
+      "extractedCaseName": null
+    },
+    {
+      "citation": "424 U.S. 319",
+      "status": 200,
+      "statusSymbol": null,
+      "caseName": null,
+      "court": null,
+      "dateField": null,
+      "context": null,
+      "extractedCaseName": null
+    },
+    {
+      "citation": "789 F. Supp. 2d 1010",
+      "status": "mismatch",
+      "statusSymbol": null,
+      "caseName": null,
+      "court": null,
+      "dateField": null,
+      "context": null,
+      "extractedCaseName": null
+    },
+    {
+      "citation": "3 Cai. R. 175",
+      "status": 404,
+      "statusSymbol": null,
+      "caseName": null,
+      "court": null,
+      "dateField": null,
+      "context": null,
+      "extractedCaseName": null
+    },
+    {
+      "citation": "410 U.S. 113",
+      "status": "mismatch",
+      "statusSymbol": null,
+      "caseName": null,
+      "court": null,
+      "dateField": null,
+      "context": null,
+      "extractedCaseName": null
+    },
+    {
+      "citation": "411 U.S. 121",
+      "status": "mismatch",
+      "statusSymbol": null,
+      "caseName": null,
+      "court": null,
+      "dateField": null,
+      "context": null,
+      "extractedCaseName": null
+    },
+    {
+      "citation": "900 U.S. 422",
+      "status": 404,
+      "statusSymbol": null,
+      "caseName": null,
+      "court": null,
+      "dateField": null,
+      "context": null,
+      "extractedCaseName": null
+    }
+  ]
+}
